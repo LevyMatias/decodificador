@@ -3,6 +3,9 @@
 
 Projeto desenvolvido no programa oracle one como desafio da formação iniciante em programação.
 
+- Badge ganhada ao finalizar o desafio:
+
+![Decodificador](https://github.com/LevyMatias/ImagensGithub/blob/main/img%20projetos/Decodificador/badge.png)
 
 ## ⚙️ Funcionalidades
 
