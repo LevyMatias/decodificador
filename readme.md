@@ -29,11 +29,11 @@ Por exemplo:
 
 Web
 
-![Decodificador] (https://github.com/LevyMatias/ImagensGithub/blob/main/img%20projetos/Decodificador/web.png)
+![Decodificador](https://github.com/LevyMatias/ImagensGithub/blob/main/img%20projetos/Decodificador/web.png)
 
 Mobile 
 
-![Decodificador] (https://github.com/LevyMatias/ImagensGithub/blob/main/img%20projetos/Decodificador/mobile.png)
+![Decodificador](https://github.com/LevyMatias/ImagensGithub/blob/main/img%20projetos/Decodificador/mobile.png)
 
 
 
@@ -42,13 +42,13 @@ Mobile
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/LevyMatias/decodificador.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd decodificador/
 ```
 
 
